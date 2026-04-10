@@ -17,7 +17,7 @@ Para alimentar o meu Caderno Temático no **NotebookLM**, selecionei as seguinte
 ⚙️ Engenharia de Prompts e dificuldades
 Nesta etapa, documentei como interagi com a IA para extrair o melhor conhecimento:
 
-- Prompt de Extração:** *"Com base nas fontes fornecidas, analise os principais desafios éticos e regulatórios da IA aplicada à análise de dados, estruturando em tópicos."
+- Prompt de Extração:"Com base nas fontes fornecidas, analise os principais desafios éticos e regulatórios da IA aplicada à análise de dados, estruturando em tópicos."
 - Dificuldades: No início, os prompts eram muito genéricos e a IA trazia respostas curtas. Ao solicitar que ela conectasse os desafios à legislação (LGPD/GDPR), o conteúdo tornou-se muito mais rico e técnico.
 -Aprendizado: Descobri que o NotebookLM é excelente para cruzar informações de múltiplas fontes simultaneamente, além disso, consegui montar um guia de estudos completo com ele.
 
